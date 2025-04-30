@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home - Universe Today</title>
+  
+  <!-- Description prioritizing excerpt -->
+  <meta name="description" content="">
+  
+  <!-- OpenGraph Tags -->
+  <meta property="og:title" content="Home">
+  <meta property="og:description" content="">
+  <meta property="og:url" content="https://www.universetoday.com">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Universe Today">
+
+  <!-- Twitter Card Tags - Always present regardless of image -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Home">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:site" content="@universetoday">
+  
+  <!-- Image handling -->
+  
+  
+  
+    <meta property="og:image" content="https://www.universetoday.com/assets/ut-website-logo-100.png">
+    <meta property="og:image:alt" content="Universe Today">
+    <meta name="twitter:image" content="https://www.universetoday.com/assets/ut-website-logo-100.png">
+  
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://www.universetoday.com">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/favicon.ico">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/site.css">
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <a href="/" class="site-logo">
+      <img src="/assets/ut-website-logo-100.png" alt="Universe Today Logo" style="margin-right: 10px; height: 30px; width: auto;">
+      Universe Today
+    </a>
+    <nav>
+      
+        <a href="/"  class="active">
+          Home
+        </a>
+      
+        <a href="https://www.youtube.com/@frasercain"  >
+          Videos
+        </a>
+      
+        <a href="https://www.patreon.com/rss/universetoday?auth=dc06cc3fbdf692a877cf3dbd027e6bf6&show=1438186"  >
+          Podcast
+        </a>
+      
+        <a href="/newsletter"  >
+          Newsletter
+        </a>
+      
+        <a href="ut-club"  >
+          Join the Club
+        </a>
+      
+        <a href="https://www.universetoday.com/feed/"  >
+          RSS Feed
+        </a>
+      
+
+      
+    </nav>
+  </div>
+</header>
+
+  
+<main class="container">
+  <section class="recent-articles">
+  
+  
+    
+
+    <div class="article-grid">
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/mars-has-the-remnants-of-a-lopsided-magnetic-field">Mars Has the Remnants of a Lopsided Magnetic Field</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Andy Tomaswick
+                
+              </span>
+            
+            <span>April 19, 2025</span>
+          </div>
+
+          <a href="/articles/mars-has-the-remnants-of-a-lopsided-magnetic-field">
+            
+              <img src="/assets/16678.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Scientists have known for a while that Mars currently lacks a magnetic field, and many blame that for its paltry atmosphere - with no protective shield around the planet, the solar wind was able to strip away much of the gaseous atmosphere over the course of billions of years. But, evidence has been mounting that Mars once had a magnetic field. Results from Insight, one of the Red Planet's landers, lend credence to that idea, but they also point to a strange feature - the magnetic field seemed to cover only the southern hemisphere, but not the north. A team from the University of Texas Institute for Geophysics thinks they might know why - in a recent paper, they described how a fully liquid core in Mars could create a lopsided magnetic field like the one seen in Insight’s data.
+            
+          </div>
+
+          <a href="/articles/mars-has-the-remnants-of-a-lopsided-magnetic-field" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/astronomers-watch-a-black-hole-wake-up-in-real-time">Astronomers Watch a Black Hole Wake Up in Real Time</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Carolyn Collins Petersen
+                
+              </span>
+            
+            <span>April 19, 2025</span>
+          </div>
+
+          <a href="/articles/astronomers-watch-a-black-hole-wake-up-in-real-time">
+            
+              <img src="/assets/giant_black_hole_awakens_with_repetitive_x-ray_bursts_pillars_smaller.jpg" alt="A giant black hole awakens with brilliant bursts of optical and x-ray light. Courtesy ESA." class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              You never know when a central supermassive black hole is going to power up and start gobbling matter. Contrary to the popular view that these monsters are constantly devouring nearby stars and gas clouds, it turns out they spend part of their existence dormant and inactive. New observations from the European Space Agency's XMM-Newton spacecraft opened a window on the "turn on event" for one of these monsters in a distant galaxy.
+            
+          </div>
+
+          <a href="/articles/astronomers-watch-a-black-hole-wake-up-in-real-time" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/searching-for-life-on-mars-in-the-snow-and-ice">Searching for Life on Mars in the Snow and Ice</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Matthew Williams
+                
+              </span>
+            
+            <span>April 19, 2025</span>
+          </div>
+
+          <a href="/articles/searching-for-life-on-mars-in-the-snow-and-ice">
+            
+              <img src="/assets/1567219790169-31858.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              In a recent paper, a team of researchers indicated that photosynthetic bacteria could exist just beneath the snow and ice around Mars' mid-latitudes. If true, this could be the most easily accessible place to look for present-day life on Mars.
+            
+          </div>
+
+          <a href="/articles/searching-for-life-on-mars-in-the-snow-and-ice" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-evidence-for-ancient-supernovae-is-buried-underground">The Evidence for Ancient Supernovae Is Buried Underground</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Paul Sutter
+                
+              </span>
+            
+            <span>April 19, 2025</span>
+          </div>
+
+          <a href="/articles/the-evidence-for-ancient-supernovae-is-buried-underground">
+            
+              <img src="/assets/article_images/supernova.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              The solar system is currently embedded deep within the Local Bubble, a region of relatively low density stretching for a thousand light-years across. It was carved millions of years ago by a chain of supernova explosions. And the evidence for it is right under our feet.
+            
+          </div>
+
+          <a href="/articles/the-evidence-for-ancient-supernovae-is-buried-underground" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/a-nuclear-powered-spacecraft-could-explore-titan-for-signs-of-life">A Nuclear-Powered Spacecraft Could Send Humans to Titan to Look for Signs of Life</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Matthew Williams
+                
+              </span>
+            
+            <span>April 18, 2025</span>
+          </div>
+
+          <a href="/articles/a-nuclear-powered-spacecraft-could-explore-titan-for-signs-of-life">
+            
+              <img src="/assets/titan_multi.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              According to a recent study by the non-profit Explore Titan, a nuclear-fission propulsion spacecraft could enable the first crewed mission to Titan, Saturn's largest moon.
+            
+          </div>
+
+          <a href="/articles/a-nuclear-powered-spacecraft-could-explore-titan-for-signs-of-life" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/what-blew-up-the-local-bubble">What Blew Up the Local Bubble?</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Paul Sutter
+                
+              </span>
+            
+            <span>April 18, 2025</span>
+          </div>
+
+          <a href="/articles/what-blew-up-the-local-bubble">
+            
+              <img src="/assets/g299-remnants-supernova-type1a-20150218.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              In our neighborhood of the Milky Way, we see a region surrounding the solar system that is far less dense than average. But that space, that cavity, is a very irregular, elongated shape. What little material is left inside of this cavity is insanely hot, as it has a temperature of around a million Kelvin.
+            
+          </div>
+
+          <a href="/articles/what-blew-up-the-local-bubble" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/a-new-concept-for-an-astrobiology-mission-to-enceladus">A New Concept for an Astrobiology Mission to Enceladus</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Matthew Williams
+                
+              </span>
+            
+            <span>April 17, 2025</span>
+          </div>
+
+          <a href="/articles/a-new-concept-for-an-astrobiology-mission-to-enceladus">
+            
+              <img src="/assets/pia11133.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Astrobiologists are dying to send another mission to study Enceladus, the icy moon that orbits Saturn and has active plumes emanating from its surface, A team from NASA's Jet Propulsion Laboratory (JPL) proposes an Enceladus Orbitlander that would conduct in-situ measurements of Enceladus' plumes, which could confirm the presence of organics and maybe even life in its interior.
+            
+          </div>
+
+          <a href="/articles/a-new-concept-for-an-astrobiology-mission-to-enceladus" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/a-hole-opened-up-in-the-suns-corona-and-vented-helium-3">A Hole Opened Up in the Sun's Corona and Vented Helium-3</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Laurence Tognetti, MSc
+                
+              </span>
+            
+            <span>April 17, 2025</span>
+          </div>
+
+          <a href="/articles/a-hole-opened-up-in-the-suns-corona-and-vented-helium-3">
+            
+              <img src="/assets/aa1ccqyb.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              What can Helium-3 (3He) being discharged from the Sun teach us about 3He creation and the Sun’s activity? This is what a recent study published in The Astrophysical Journal hopes to address as an international team of researchers investigated 3He-rich solar energetic particles (SEPs) emitted by the Sun in late 2023. This study has the potential to help astronomers better understand how solar activity could contribute to the production of 3He, the latter of which remains one of the most desired substances due to its potential for nuclear fusion technology on Earth.
+            
+          </div>
+
+          <a href="/articles/a-hole-opened-up-in-the-suns-corona-and-vented-helium-3" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/fresh-findings-fuel-debate-about-life-on-alien-world">Is There Life on an Alien Planet? Fresh Findings Revive the Debate</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Alan Boyle
+                
+              </span>
+            
+            <span>April 17, 2025</span>
+          </div>
+
+          <a href="/articles/fresh-findings-fuel-debate-about-life-on-alien-world">
+            
+              <img src="/assets/250417-k218b.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Two new studies have sparked fresh debate about a faraway planet with a weird atmosphere. One of the studies claims additional evidence for the presence of life on the planet K2-18 b, based on chemical clues. The other study argues that such clues can be produced on a lifeless world.
+            
+          </div>
+
+          <a href="/articles/fresh-findings-fuel-debate-about-life-on-alien-world" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/a-new-version-of-the-sombrero-galaxy-taken-by-hubble">A New Version of the Sombrero Galaxy, Taken by Hubble</a>
+          </h2>
+
+          <div class="card-meta">
+            
+              <span>
+                
+                  By Andy Tomaswick
+                
+              </span>
+            
+            <span>April 17, 2025</span>
+          </div>
+
+          <a href="/articles/a-new-version-of-the-sombrero-galaxy-taken-by-hubble">
+            
+              <img src="/assets/16686.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Sometimes an old telescope can still impress. That is certainly the case for Hubble, which is rapidly approaching the 35th anniversary of its launch. To celebrate, the telescope's operators are collaborating with ESA to release a series of stunning new photographs of some of the most iconic astronomical objects the telescope has observed. As of the time of writing, the latest one to be released is a spectacular new image of a favorite of millions of amateur astronomers - the Sombrero Galaxy.
+            
+          </div>
+
+          <a href="/articles/a-new-version-of-the-sombrero-galaxy-taken-by-hubble" class="read-more">Continue reading</a>
+        </article>
+      
+    </div>
+
+    
+<nav class="pagination my-6 flex justify-center items-center space-x-4 w-full">
+  
+  <span>Page 1 of 2295</span>
+  
+    <a href="https://www.universetoday.com?page=2" class="next text-blue-500 hover:underline">Next</a>
+  
+</nav>
+
+    
+
+  
+</section>
+
+</main>
+  
+<footer>
+  <div class="container">
+    <div class="footer-content">
+      <div>
+        <p>&copy; 2025 Universe Today</p>
+        <p>A space and astronomy news site</p>
+      </div>
+      <div>
+        <p>Support our ad-free content</p>
+        <a href="https://www.patreon.com/universetoday" class="support-link">Become a Patron</a>
+      </div>
+    </div>
+    
+    <!-- Footer Navigation -->
+    <div class="footer-navigation">
+      
+        <a href="/contact-us"  >
+          Contact Us
+        </a>
+      
+        <a href="/privacy-policy"  >
+          Privacy Policy
+        </a>
+      
+      
+    </div>
+    
+    <!-- Creative Commons License Notice -->
+    <div class="cc-license" style="font-size: 0.8em; text-align: center; margin-top: 10px;">
+      <p>This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>.</p>
+    </div>
+  </div>
+</footer>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9333eb572aa38fa5',t:'MTc0NTE0NDUzMy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

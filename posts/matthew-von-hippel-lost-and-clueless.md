@@ -1,0 +1,16 @@
+---
+title: "Matthew von Hippel : Beyond Lost"
+date: 2021-05-07
+categories: 
+  - "nature"
+tags: 
+  - "linked-refreshed-2022-dec"
+---
+
+I made a comment on Matthew von Hippel’s blog **4gravitons** and his response was both highly offensive and demonstrative of the lost and clueless defensiveness of physicists. Here is the link to his blog post : [http://4gravitons.com/2021/04/30/electromagnetism-is-the-weirdest-force/](http://4gravitons.com/2021/04/30/electromagnetism-is-the-weirdest-force/)
+
+Mark: Hi. I’m not sure my ideas are welcome here, but I think if you zoom back to 1870 or so and pick up classical point charges from the physics discard pile and then give them immutability at a radius near the Planck length with a field effect then you can find a solution that physicists missed. If you start with a Euclidean space, and two types of these immutable point charges (I call them the electrino and positrino with charge magnitude |e/6|), and the energy carried by those point charges, then the universe will emerge, including all the mathematics of GR and QM. In fact the quantum is simply the energy increment required to take the most basic emergent structure, a simple electrino-positrino binary and increment the frequency. That little binary has amazing properties — think through the force of attraction, the centripetal force, the travel time of the potential field between each point charge, the dynamic scalar and vector potentials generated and how they contribute to binary dynamics, and we need to put in our immutability field effect which likely ties into permittivity and permeability. All told, an electrino-positrino binary is a stretchy ruler and a variable clock. I can find no due diligence from the field of physics on this simple solution to nature, yet I can see how it ties to everything in physics and cosmology and solves all the open problems. I also have a blog at jmarkmorris.com where I have written hundreds of short posts about this, with no woo.
+
+**_Matthew : Since you’re not being confrontational, I’ll just let you off with a warning this time, but to be clear, comments like this are spam. The only link to the post topic is that both the post and you mention E&M, and you’re using that as an excuse to link readers to an otherwise totally unrelated physics proposal, basically using this post as free advertising for yourself. I appreciate that you feel like you have found something that deserves more attention, but commenting on tangentially related educational blogs isn’t an appropriate way to get that attention, and my general policy is to delete off-topic comments like this._**
+
+Mark : Well your response is both confrontational, incorrect, and bullying. My intent was in direct response to your post and attempting to guide you back in time to understand the mistakes that threw physics so far off track. Attitudes like yours only serve to delay the next era and perpetuate the tragic mistakes. It's a tragedy that you and your colleagues are so lost. The solution is so simple and it’s obvious once you remap your narrative. Example: the quantum is emergent and not fundamental. The quantum is simply the angular momentum required to change an orbiting point charge binary frequency. Oh well, I tried. Sigh.

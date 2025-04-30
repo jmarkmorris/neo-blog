@@ -1,0 +1,8 @@
+- "Rewrite this article in a tone that is engaging, professional, academic, and expert."
+- "Update any outdated terminology regarding [specific topic]."
+- "Improve the flow and clarity."
+- "Ensure accuracy regarding [specific facts/concepts]."
+- "Suggest 2-3 places where a new, relevant image could enhance understanding. 
+- "Describe or generate the desired image content for each suggestion."
+- "Maintain the original core message and information."
+- "Output the result in Markdown format."

@@ -1,0 +1,28 @@
+---
+title: "Dr. Brian Keating and Dr. Carlo Rovelli"
+date: 2021-04-24
+categories: 
+  - "nature"
+tags: 
+  - "linked"
+---
+
+https://youtu.be/WCnhh6YMD6w
+
+Carlo seems like an incredibly kind person. I'd like to have a conversation with him too! Gosh, he is so very close to the solution! I don't know why Brian won't assign a grad student to just figure it out. No one will believe me, but all you need is a density of energy generating and carrying immutable point charge types at +/- |e/6| and watch them form binaries and higher level structures. Do you really want to know why we perceive c to be a constant? Because the radius and frequency of an electrino/positrino binary maintain a relationship such that c appears to be a constant, no matter the energy content of spacetime aether. As far as I can tell so far, all standard matter structure is built upon these binaries and higher level structures use multiple of them decorated with other electrinos and positrinos. Even spacetime aether. The binary is why we observe quantization. It's not that energy or space or time are quantized fundamentally -- the quantum is an emergent behavior. These binaries can transact energy in spin \* h joules. And based on the frequency:radius relationship I just mentioned, they change size with each energy transaction. It is so very simple.
+
+There are actually a half dozen seminal decisions or interpretations that were incorrect and that is why particle physics and astrophysics are so lost is because they think the actual solution is ruled out. It is very frustrating trying to gift the solution of nature to physicists. I may need to rethink my approach and go talk to chemistry or biology academics -- how would you all like that? Scooped by an engineer is one thing, but scooped by a chemist? a biologist? Or perhaps a philosopher? Let me know and I will redirect my efforts to that crowd, because physicists are too lost to find their way home, even with a guide.
+
+* * *
+
+@13:00 Dear Brian and Carlo, It is not so complicated to understand time. Of course you always have an abstract notion of time which you can generalize from events and make into a linear absolute time. In an empty void you could have the concept of time, but not have any events upon which to define measurements and intervals. So it is helpful to have a universe populated with structures when enhancing the definition of time. The next thing to realize is that the universe is based on the two flavors of immutable point charge, the electrino and positrino, at |e/6|. Since they are immutable, there is no singularity, so the most dense energy-matter and the bounce point is the Planck core, which is present in quasars and maybe other black holes. What is the first thing highly energetic electrinos and positrinos want to do? Of course, they want to orbit each other due to Coulomb's Law, which of course is the progenitor of gravitation which has a similar formula. Anyway, an electrino and a positrino rapidly orbiting each other, chasing their tails, is a CLOCK. It starts at the Planck frequency and can transact energy and end up at many frequencies depending on the reactions. Suffice it to say that these spinning binaries are present in every fermion and all bosons (except not sure about Higgs yet.). So clocks to the left of us, clocks to the right of us, clocks inside of us, and of course spacetime is an aether made out of these binaries, so there are clocks there as well.
+
+* * *
+
+@14:00 : Physicists are so creative and often so incredibly wrong in interpreting a narrative around their mathematics. Take the no boundary proposal. The LOCAL universe does not start as a point of zero size. It starts in a Planck core of immutable point charges packed as close as possible. Due to the proximity of neighbors the point charges can no longer orbit each other and vibrate back and forth until we reach the Planck core state where no point charge can move relative to another. (The whole core may be spinning though). When there is no rotation or orbit, and the particles are in stasis with their neighbors we can say that local time has stopped. We can also say the entropy = 0 since this is one microstate, but that is another matter. And don't get me started on 'information'. Now go back and look at Hawking's No Boundary Proposal - and it should hopefully be quite obvious that as Planck cores jet, each jet is the process Hawking describes as a shuttlecock.
+
+* * *
+
+@33:00 Carlo '....far beyond the Planck scale' --- this is a good time to point out that nature is continuous in many ways - energy, distance, velocity. It is the structures that implement quanta. So the electrino and positrino are quanta in a physical sense. The h or h-bar is the quanta of energy or angular momentum for an electrino/positrino binary, that is to say the structure implements the quantization. So although I can't tell exactly what Carlo is referring to here, I fear that scientists think it is one way or the other in terms of quantized vs. continuous. Only when you find the true solution do you realize how they are blended.
+
+@41:00 Carlo is creating a scenario where Hawking radiation over long periods of time can evaporate a black hole, but then the ingestion must average less than the Hawking radiation. It is much easier to think about the spinning black hole and the frame dragging around the poles and the encroaching (relatively) low-energy spacetime aether inside the vortex that gets closer and closer to the event horizon or ‘white hole’ surface -- well suffice it to say that the breaching Planck core of packed point charges is what Carlo is talking about when he refers to a white hole.

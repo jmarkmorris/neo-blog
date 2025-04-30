@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://naturalsciences.uoregon.edu/physics" />
+<meta name="twitter:title" content="Physics" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+<link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+<link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+<link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+    <title>Physics | Natural Sciences</title>
+        <meta name="theme-color" content="#154733">
+    <meta name="msapplication-navbutton-color" content="#154733">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_5VL5wSGj0_RDp2VTAMlVyWfSJ414Lzjr6MSYMbvsAe8.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJx9kMFuhDAMRH8IyKEfhEwysClOHNnJQvv1ZRct3Ut7scbzLI1tvyLEKjrGHJDrxOJX96Y7Lyw6ye6wUyqMj8NRuKCtEA_0SftpZNFEHL9xtJaidxPZpRPMaIG9-iwBXTqSyc2RK3TwVGqU3BVSWpTKzV4Rv87QcmkTR7shdPZlFelMaTJ6YuRA6t708C8MmKlx_ZMbxwB94sd95-aj3KF6ALvALLn2tMEk4TKb9Bum_piLS-5npYRNdO29PH5Y0d0jNnPPOiQJjfED0raYyw" />
+<link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/25.04/v1/css/styles-drupal8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_kITMo6UOf7zbkxgQ3KW29ds1-KllV9T-e-okiBM9n24.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJx9kMFuhDAMRH8IyKEfhEwysClOHNnJQvv1ZRct3Ut7scbzLI1tvyLEKjrGHJDrxOJX96Y7Lyw6ye6wUyqMj8NRuKCtEA_0SftpZNFEHL9xtJaidxPZpRPMaIG9-iwBXTqSyc2RK3TwVGqU3BVSWpTKzV4Rv87QcmkTR7shdPZlFelMaTJ6YuRA6t708C8MmKlx_ZMbxwB94sd95-aj3KF6ALvALLn2tMEk4TKb9Bum_piLS-5npYRNdO29PH5Y0d0jNnPPOiQJjfED0raYyw" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_p5Io3mm-rYtpvK90vNdzdtTVea8vNFXXTogjt1XussE.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJx9kMFuhDAMRH8IyKEfhEwysClOHNnJQvv1ZRct3Ut7scbzLI1tvyLEKjrGHJDrxOJX96Y7Lyw6ye6wUyqMj8NRuKCtEA_0SftpZNFEHL9xtJaidxPZpRPMaIG9-iwBXTqSyc2RK3TwVGqU3BVSWpTKzV4Rv87QcmkTR7shdPZlFelMaTJ6YuRA6t708C8MmKlx_ZMbxwB94sd95-aj3KF6ALvALLn2tMEk4TKb9Bum_piLS-5npYRNdO29PH5Y0d0jNnPPOiQJjfED0raYyw" />
+<link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_WIalfXG1VkDNYks-wujdR3byA0RFwBxVXD_zS_AxcQo.css?delta=6&amp;language=en&amp;theme=cosmic&amp;include=eJx9kMFuhDAMRH8IyKEfhEwysClOHNnJQvv1ZRct3Ut7scbzLI1tvyLEKjrGHJDrxOJX96Y7Lyw6ye6wUyqMj8NRuKCtEA_0SftpZNFEHL9xtJaidxPZpRPMaIG9-iwBXTqSyc2RK3TwVGqU3BVSWpTKzV4Rv87QcmkTR7shdPZlFelMaTJ6YuRA6t708C8MmKlx_ZMbxwB94sd95-aj3KF6ALvALLn2tMEk4TKb9Bum_piLS-5npYRNdO29PH5Y0d0jNnPPOiQJjfED0raYyw" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1179","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyFkeFuwyAMhF8ohB97oMgBJ_VqMLKhaff0o62adpW2_bHO350QHOGIkaroRDlirjNLOPoXPQRh0VnO_iGeJEoqTWm5PBGeIRXGj04UfRZNwPSFfbVEwc9gu05oBivaY88ScVhFVsapwurXPt73ET7h_BOmIfUXgF-IK-oYoFSSPBRQWBXKwXzUVoDHJxlbLm1msgPGwS5WMd1v1mQKwJgjqH_R459mxAUa1199Y4qob_ZD3vC1qnsJk5xQtedtNxbJ1cGGJgl3aEGF2VVKyJTRFeFLL4D3QBO34ez6QbRmtygk3ESPLsj1eyr-G6RMdTgRbuZvc0wSG-M3u4nY9A","theme":"cosmic","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-KTPFM9K"]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"Previous","next":"Next","close":"Close","maxWidth":"95%","maxHeight":"95%","fixed":true,"mobiledetect":false,"mobiledevicewidth":480},"user":{"uid":0,"permissionsHash":"5a89f44ddd59feae4df04b8db0a62e93c29075b24ab8bdaa076bc381e03bcd78"}}</script>
+<script src="/sites/default/files/js/js_UpO6BDDF0-YHZFhYcISmkDBywYmgSPR0jLGNfZIhWQw.js?scope=header&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFj1kOwyAMRC8UhyNFDhjk1uDIgJLcvmnVXar6M3qz_IxXUZt1c_4OwwNc0Lx047i_Ii7chqSahKaGyaVDvv2IJ9w-wzx0nTwKlYDm3ngMFLFL-9lX4UB2q9XIVW8qAo0zCReCRWWPLPIcdIWVZghUORWIhplWtTP444tQo7_D68MLKyZrCQ"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?suudt1"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?suudt1"></script>
+<script src="/sites/default/files/js/js_PEzNGtMIkWxW4BLWwaI4p8Ol9XhDIqnA-DMjZBlXEWI.js?scope=header&amp;delta=3&amp;language=en&amp;theme=cosmic&amp;include=eJyFj1kOwyAMRC8UhyNFDhjk1uDIgJLcvmnVXar6M3qz_IxXUZt1c_4OwwNc0Lx047i_Ii7chqSahKaGyaVDvv2IJ9w-wzx0nTwKlYDm3ngMFLFL-9lX4UB2q9XIVW8qAo0zCReCRWWPLPIcdIWVZghUORWIhplWtTP444tQo7_D68MLKyZrCQ"></script>
+<script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/25.04/v1/js/uowdf-init.js"></script>
+
+  </head>
+  <body class="cosmic-subsection licensed-fonts-enabled path-node page-node-type-marketing-page uowdf--mobile-menu drupal-8">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTPFM9K"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+  
+  
+
+<div  class="uoheader uowdf-search-dialog--enabled">
+  <div class="uoheader__container" style="max-width: px;">
+
+    <div class="uoheader__logo-container">
+      <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+        <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+      </a>
+    </div>
+
+    <div class="uoheader__links-container">
+            <div class="uoheader__links-background">
+        <nav id="banner-links">
+          <ul class="uoheader__links">
+            <li class="uoheader__link">
+              <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+            </li>
+            <li class="uoheader__link">
+              <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+            </li>
+            <li class="uoheader__link">
+              <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+            </li>
+            <li class="uoheader__link">
+              <a href="https://giving.uoregon.edu/s/1540/24-it/1col.aspx?sid=1540&amp;gid=2&amp;pgid=13232&amp;utm_source=CAS&amp;utm_medium=web&amp;utm_campaign=OR150">Give</a>
+            </li>
+          </ul>
+        </nav>
+                  <div class="uoheader__search">
+            <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+          </div>
+              </div>
+    </div>
+    
+          <div class="uowdf-search-dialog" role="search">
+        <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+        <div class="uowdf-search-dialog__search-region">
+          <div class="views-exposed-form settings-tray-editable block block-views block-views-exposed-filter-blocksearch-block-cosmic-search" data-drupal-selector="views-exposed-form-search-block-cosmic-search" id="block-exposedformsearchblock-cosmic-search" data-drupal-settingstray="editable">
+  
+      <h2>Search this site</h2>
+    
+      <form action="/search" method="get" id="views-exposed-form-search-block-cosmic-search" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search-api-fulltext form-item-search-api-fulltext form-no-label">
+        <input data-drupal-selector="edit-search-api-fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+        </div>
+      </div>
+    
+              <div class="uoheader__mobile">
+                  <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+                          <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+            <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+            <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+            <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+            <div class="uowdf-mobile-menu__button__text">Menu</div>
+          </button>
+              </div>
+    
+  </div>
+</div>
+  <div class="uowdf-mobile-menu__container">
+    <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+                    
+
+
+<h1 class="uowdf-mobile-menu__title">Natural Sciences Menu</h1>
+<nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+          
+</nav>
+      
+      <div class="uowdf-mobile-menu__secondary-menus">
+              
+        <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+          <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+          <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+            <ul class="uowdf-mobile-menu__list">
+                            <li class="uowdf-mobile-menu__list-item">
+                <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+              </li>
+              <li class="uowdf-mobile-menu__list-item">
+                <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+              </li>
+              <li class="uowdf-mobile-menu__list-item">
+                <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+              </li>
+              <li class="uowdf-mobile-menu__list-item">
+                <a class="uowdf-mobile-menu__link" href="https://giving.uoregon.edu/s/1540/24-it/1col.aspx?sid=1540&amp;gid=2&amp;pgid=13232&amp;utm_source=CAS&amp;utm_medium=web&amp;utm_campaign=OR150">Give</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+
+    </div>
+  </div>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="page">
+  
+<header class="site-header" role="banner">
+  <div class="site-header__content">
+    
+        
+    
+                        <a href="https://cas.uoregon.edu" class="site-header__site-title-before-link">
+                <div class="site-header__site-title-before site-header__site-subtitle" id="site-title-before">College of Arts and Sciences</div>
+                  </a>
+              
+      <h2 class="site-header__site-name" id="site-name">
+        <a href="/" title="Natural SciencesHome" class="site-header__site-link" rel="home"><span>Natural Sciences</span></a>
+      </h2>
+
+      
+      </div>
+
+</header>  <div id="stickynav-waypoint"></div>
+
+  <div class="navigation-bar">
+    
+    
+  </div>
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+      <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-physicsdepartmenthero" class="settings-tray-editable block block-block-content block-block-contentbb0bce55-6b5b-40de-9f9c-153d405f74c0" data-drupal-settingstray="editable">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="envelope-hero envelope-hero--text-bottom">
+<div class="envelope-hero__container">
+<div class="envelope-hero__photo">
+<span class="align-center media media--type-image media--view-mode-crop-custom">
+  
+      
+            <span class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/custom_xl/public/2023-12/phys_department-hero-image.png?itok=RYUNskur 1x" media="all and (min-width: 1200px)" type="image/png" width="1440" height="385">
+              <source srcset="/sites/default/files/styles/custom_xl/public/2023-12/phys_department-hero-image.png?itok=RYUNskur 1x" media="all and (min-width: 960px) and (max-width: 1199px)" type="image/png" width="1440" height="385">
+              <source srcset="/sites/default/files/styles/custom/public/2023-12/phys_department-hero-image.png?itok=nP-GyFVU 1x" media="all and (min-width: 660px) and (max-width: 959px)" type="image/png" width="900" height="241">
+              <source srcset="/sites/default/files/styles/custom_medium/public/2023-12/phys_department-hero-image.png?itok=jkpy0H7g 1x" media="all and (min-width: 320px) and (max-width: 659px)" type="image/png" width="600" height="160">
+              <source srcset="/sites/default/files/styles/custom_small/public/2023-12/phys_department-hero-image.png?itok=ydUU8lrK 1x" type="image/png" width="300" height="80">
+                  <img loading="eager" width="1440" height="385" src="/sites/default/files/styles/custom_xl/public/2023-12/phys_department-hero-image.png?itok=RYUNskur" alt="A climber sitting on a ground at night" typeof="foaf:Image">
+
+  </picture>
+
+</span>
+      
+  </span>
+
+</div>
+
+<div class="envelope-hero__content" style="bottom: 0;transform: inherit;text-align: left;top: inherit;">
+<div class="envelope-hero__content__title"><a href="/physics">Physics</a></div>
+</div>
+</div>
+</div>
+</div>
+      
+  </div>
+
+<nav role="navigation" aria-labelledby="block-departmentnavigation-menu" id="block-departmentnavigation" class="settings-tray-editable block block-menu navigation menu--department-navigation" data-drupal-settingstray="editable">
+            
+  <h2 class="visually-hidden" id="block-departmentnavigation-menu">Department Navigation</h2>
+  
+
+        
+<div class="subnavbar palette-bg-uo-green">
+                      <ul class="subnavbar__menu">
+                    <li class="subnavbar__menu-item">
+        <a href="/physics/apply" data-drupal-link-system-path="node/1180">How to Apply</a>
+              </li>
+                <li class="subnavbar__menu-item">
+        <a href="/physics/undergraduate-programs" data-drupal-link-system-path="node/1189">Undergraduate Programs</a>
+              </li>
+                <li class="subnavbar__menu-item">
+        <a href="/physics/graduate-programs" data-drupal-link-system-path="node/1190">Graduate Programs</a>
+              </li>
+                <li class="subnavbar__menu-item">
+        <a href="/physics/courses" data-drupal-link-system-path="node/1196">Courses</a>
+              </li>
+                <li class="subnavbar__menu-item">
+        <a href="/physics/experiential-learning" data-drupal-link-system-path="node/1197">Experiential Learning</a>
+              </li>
+                <li class="subnavbar__menu-item">
+        <a href="/physics/research" data-drupal-link-system-path="node/1203">Research</a>
+              </li>
+                <li class="subnavbar__menu-item">
+        <a href="https://cas.uoregon.edu/directory/physics">Directory</a>
+              </li>
+                <li class="subnavbar__menu-item">
+        <a href="/physics/contact-us" data-drupal-link-system-path="node/1205">Contacts/Resources</a>
+              </li>
+        </ul>
+  
+</div>
+
+
+
+  </nav>
+
+
+  </div>
+
+    
+
+    <div class="layout">
+      <div class="layout__content">
+        
+          <div class="region region-content">
+    <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Physics</span>
+</h1>
+
+
+  </div>
+<div id="block-cosmic-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article about="/physics" class="node node--type-marketing-page node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+      <div class="field field--name-field-envelopes field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+        
+
+
+
+
+
+
+  
+<div class="palette-bg-white envelope envelope--style-white envelope--standard">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope-summary" style="text-align:center;"><p>All of the technological achievements we rely on daily, from power generation to transportation and communication, are based on our understanding of the physical laws of nature. To maintain and improve humankind’s standard of living, it is imperative that we continue to study nature and gain a better understanding of its laws. The Department of Physics is committed to this process of creating and disseminating new knowledge, and to preserving the knowledge created by previous generations of physicists, through the principle of combining research with teaching.</p></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+  
+
+
+
+
+
+
+  
+<div class="palette-bg-lime-green envelope envelope--style-white envelope--standard">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h2 class="text-align-center">Physics Commencement Ceremony</h2><p class="text-align-center"><strong>Monday, June 16, 2025</strong><br><strong>4:00–6:00 p.m.</strong><br>Location: Erb Memorial Union (EMU) Ballroom</p><p class="text-align-center"><a class="cta-button cta-button--standard" href="/physics/commencement">More Commencement information</a></p></div>
+      </div>
+</div>
+              <div class="field__item">
+
+        
+
+
+
+
+
+
+  
+<div class="palette-bg-white envelope envelope--style-white envelope--flush">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope-feature envelope-feature--text-left"><div class="envelope-feature__container"><div class="envelope-feature__photo"><span class="media media--type-image media--view-mode-crop-custom">
+  
+      
+            <span class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/custom_xl/public/2023-03/microsoftteams-image-166.png?itok=6uVuVIgF 1x" media="all and (min-width: 1200px)" type="image/png" width="1440" height="960">
+              <source srcset="/sites/default/files/styles/custom_xl/public/2023-03/microsoftteams-image-166.png?itok=6uVuVIgF 1x" media="all and (min-width: 960px) and (max-width: 1199px)" type="image/png" width="1440" height="960">
+              <source srcset="/sites/default/files/styles/custom/public/2023-03/microsoftteams-image-166.png?itok=IPQtWhDK 1x" media="all and (min-width: 660px) and (max-width: 959px)" type="image/png" width="900" height="600">
+              <source srcset="/sites/default/files/styles/custom_medium/public/2023-03/microsoftteams-image-166.png?itok=xBONgHSM 1x" media="all and (min-width: 320px) and (max-width: 659px)" type="image/png" width="600" height="400">
+              <source srcset="/sites/default/files/styles/custom_small/public/2023-03/microsoftteams-image-166.png?itok=uk-U2Fe1 1x" type="image/png" width="300" height="200">
+                  <img loading="eager" width="1440" height="960" src="/sites/default/files/styles/custom_xl/public/2023-03/microsoftteams-image-166.png?itok=6uVuVIgF" alt="Tien-Tien yu portrait" typeof="foaf:Image">
+
+  </picture>
+
+</span>
+      
+  </span>
+</div><div class="envelope-feature__content"><div class="envelope-feature__content__title">Tien-Tien Yu Wins Presidential Award</div><div class="envelope-feature__content__body"><p>Theoretical physicist Tien-Tien Yu's quest to understand the nature of dark matter has earned her a Presidential Early Career Award for Scientists and Engineers, the highest honor the US government bestows on early-career scientists. The associate professor in the Department of Physics is an academic expert in dark matter and cosmology.</p><div class="grid grid--1col"><div class="grid__item"><p><a class="cta-button mb2" href="https://research.uoregon.edu/news/uo-physicist-receives-nations-highest-honor-early-career-scientists">Read About the Award</a></p></div></div></div></div></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+
+
+
+
+
+
+
+  
+<div class="envelope palette-bg-uo-green envelope--standard">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h2 class="uo-text-size--2xl mb0">What You Can Do with a Degree in Physics</h2><p>Graduates with a major in physics find employment in the various areas of physics and other physical sciences; in technological and health industries; in financial services; and in computer science, library science, education, communication, law, and medicine. Physics provides students with a foundation for employment in:</p><ul><li>Electronics industries</li><li>Engineering firms</li><li>Telecommunications companies</li><li>Financial services</li><li>Health care practices</li><li>Research institutes and organizations</li><li>Federal government agencies</li><li>Scientific journals and book publishing</li><li>Colleges and universities</li></ul><div class="grid grid--2col grid--even"><div class="grid__item"><p><a class="cta-button cta-button--standard" href="/physics/undergraduate-programs/explore-careers">Careers for Undergraduates</a></p></div><div class="grid__item"><p><a class="cta-button cta-button--standard" href="/physics/graduate-programs/career">Careers for Graduate Students</a></p></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+        
+
+
+
+
+
+
+  
+<div class="palette-bg-white envelope envelope--style-white envelope--standard">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="grid grid--3col"><div class="grid__item"><div class="big-number"><div class="big-number__text">15-25</div><div class="big-number__subtext">STUDENTS PER CLASS</div></div></div><div class="grid__item"><div class="big-number"><div class="big-number__text">$8.9 MIL</div><div class="big-number__subtext">IN EXTERNAL RESEARCH GRANTS</div></div></div><div class="grid__item"><div class="big-number"><div class="big-number__text">14</div><div class="big-number__subtext">FELLOWS OF THE AMERICAN PHYSICAL SOCIETY AMONG FACULTY</div></div></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+        
+
+
+
+
+
+
+  
+<div class="palette-bg-white bg-swimming-ducks-edges-yellow envelope envelope--style-white envelope--flush">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope-feature envelope-feature--text-right"><div class="envelope-feature__container"><div class="envelope-feature__photo"><span class="align-left media media--type-image media--view-mode-crop-square">
+  
+      
+            <span class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/square/public/2023-08/phys_home_testimonial_nicole-wales.jpg?itok=_eVGOf3s 1x" media="all and (min-width: 1200px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-08/phys_home_testimonial_nicole-wales.jpg?itok=_eVGOf3s 1x" media="all and (min-width: 960px) and (max-width: 1199px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-08/phys_home_testimonial_nicole-wales.jpg?itok=_eVGOf3s 1x" media="all and (min-width: 660px) and (max-width: 959px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-08/phys_home_testimonial_nicole-wales.jpg?itok=_eVGOf3s 1x" media="all and (min-width: 320px) and (max-width: 659px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/thumbnail/public/2023-08/phys_home_testimonial_nicole-wales.jpg?itok=pLDyoa5e 1x" type="image/jpeg" width="100" height="75">
+                  <img loading="eager" width="600" height="600" src="/sites/default/files/styles/square/public/2023-08/phys_home_testimonial_nicole-wales.jpg?itok=_eVGOf3s" alt="Nicole Wales" typeof="foaf:Image">
+
+  </picture>
+
+</span>
+      
+  </span>
+</div><div class="envelope-feature__content"><h2 class="envelope-feature__content__title uo-text-size--2xl">How Physics Catalyzes Your Career</h2><div class="envelope-feature__content__body"><p>“I genuinely love physics and the challenges it presents. Physics is literally everywhere, everything, and always working!”</p><p>—Nicole Wales, Physics, '21</p></div></div></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+
+
+
+    
+
+
+
+  
+<div class="bg-green-trees-1 envelope envelope--style-image envelope--standard envelope--style-black context--foreground-light">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h2 class="uo-text-size--2xl">Our Degree Programs</h2><p>The Department of Physics offers multiple degree paths, allowing students to choose a course of study oriented toward either scientific research or a career in the applied sciences. Many students who earn a bachelor’s degree in physics continue their studies toward a graduate degree in physics or a related field of natural science or engineering.</p><div class="grid grid--2col"><div class="grid__item"><div class="resource-listing__title">Undergraduate Degrees</div><div class="resource-listing__item"><a href="/physics/undergraduate-programs/major-requirements">BA or BS in Physics</a></div><div class="resource-listing__item"><a href="/physics/undergraduate-programs/major-requirements">Minor in Physics</a></div><div class="resource-listing__item">&nbsp;</div></div><div class="grid__item"><div class="resource-listing__title">Graduate Degrees</div><div class="resource-listing__item"><a href="/physics/graduate-programs/masters">MS in Physics</a></div><div class="resource-listing__item"><a href="/physics/graduate-programs/masters#Applied">MS in Applied Physics</a></div><div class="resource-listing__item"><a href="/physics/graduate-programs/phd">PhD in Physics</a></div><div class="resource-listing__item">&nbsp;</div></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+
+
+
+
+
+
+
+  
+<div class="bg-swimming-ducks-edges-green envelope palette-bg-uo-green envelope--flush">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope-feature envelope-feature--text-left"><div class="envelope-feature__container"><div class="envelope-feature__photo"><span class="media media--type-image media--view-mode-crop-custom">
+  
+      
+            <span class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/custom_xl/public/2025-04/mstc_home_real-world.jpg?itok=28B7Fbfg 1x" media="all and (min-width: 1200px)" type="image/jpeg" width="720" height="580">
+              <source srcset="/sites/default/files/styles/custom_xl/public/2025-04/mstc_home_real-world.jpg?itok=28B7Fbfg 1x" media="all and (min-width: 960px) and (max-width: 1199px)" type="image/jpeg" width="720" height="580">
+              <source srcset="/sites/default/files/styles/custom/public/2025-04/mstc_home_real-world.jpg?itok=QFQvYF4T 1x" media="all and (min-width: 660px) and (max-width: 959px)" type="image/jpeg" width="720" height="580">
+              <source srcset="/sites/default/files/styles/custom_medium/public/2025-04/mstc_home_real-world.jpg?itok=yfzEKAFV 1x" media="all and (min-width: 320px) and (max-width: 659px)" type="image/jpeg" width="600" height="483">
+              <source srcset="/sites/default/files/styles/custom_small/public/2025-04/mstc_home_real-world.jpg?itok=1MOUch3r 1x" type="image/jpeg" width="300" height="242">
+                  <img loading="eager" width="720" height="580" src="/sites/default/files/styles/custom_xl/public/2025-04/mstc_home_real-world.jpg?itok=28B7Fbfg" alt="MSTC student working on experiencement" typeof="foaf:Image">
+
+  </picture>
+
+</span>
+      
+  </span>
+</div><div class="envelope-feature__content"><h2 class="envelope-feature__content__title">Get a Materials Science Degree</h2><div class="envelope-feature__content__body"><p>Want to help develop the next generation of sustainable materials? Or land a high-demand job in the semiconductor industry? Oregon's first materials science and technology undergrad major offers an interdisciplinary grounding in both the chemistry and physics of materials science.</p><div class="grid grid--1col"><div class="grid__item"><p><a class="cta-button cta-button--submit" href="/materials-science-technology">Explore the Materials Science Major</a></p></div></div></div></div></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+        
+
+
+
+
+
+
+  
+<div class="palette-bg-white envelope envelope--style-white envelope--standard">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="grid grid--3col"><div class="grid__item"><p><a class="cta-button cta-button--standard" href="/physics/apply">Apply</a></p></div><div class="grid__item"><p><a class="cta-button cta-button--standard" href="/physics/apply/declare-major-minor">Declare or Change Major</a></p></div><div class="grid__item"><p><a class="cta-button cta-button--standard" href="https://visit.uoregon.edu/">Visit UO</a></p></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+
+
+        
+
+
+
+
+  
+<div class="palette-bg-uo-yellow envelope envelope--style-yellow envelope--flush">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope-feature envelope-feature--text-right"><div class="envelope-feature__container"><div class="envelope-feature__photo"><span class="align-center media media--type-image media--view-mode-crop-square">
+  
+      
+            <span class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/square/public/2023-07/phys_home_faculty-experts-stephanie-majewski.jpg?itok=ZslMxeQ0 1x" media="all and (min-width: 1200px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-07/phys_home_faculty-experts-stephanie-majewski.jpg?itok=ZslMxeQ0 1x" media="all and (min-width: 960px) and (max-width: 1199px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-07/phys_home_faculty-experts-stephanie-majewski.jpg?itok=ZslMxeQ0 1x" media="all and (min-width: 660px) and (max-width: 959px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-07/phys_home_faculty-experts-stephanie-majewski.jpg?itok=ZslMxeQ0 1x" media="all and (min-width: 320px) and (max-width: 659px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/thumbnail/public/2023-07/phys_home_faculty-experts-stephanie-majewski.jpg?itok=3hyBEapP 1x" type="image/jpeg" width="100" height="78">
+                  <img loading="eager" width="600" height="600" src="/sites/default/files/styles/square/public/2023-07/phys_home_faculty-experts-stephanie-majewski.jpg?itok=ZslMxeQ0" alt="Stephanie Majewski" typeof="foaf:Image">
+
+  </picture>
+
+</span>
+      
+  </span>
+</div><div class="envelope-feature__content"><div class="envelope-feature__content__title">Learn from Experts in the Field</div><div class="envelope-feature__content__body"><p>Our faculty members, including one member of the National Academy of Sciences and 14 Fellows of the American Physical Society, engage in research that ranges from fundamental questions to work that spins off high-technology companies. They instill excitement about their research discoveries in our students, both in the classroom and in the research laboratory, and train students to become part of the exciting intellectual endeavor we call science.</p><div class="grid grid--2col"><div class="grid__item"><p><a class="cta-button mb2" href="/physics/research">Research</a><br><a class="cta-button" href="https://cas.uoregon.edu/directory/physics">Faculty Directory</a></p></div></div></div></div></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+        
+
+
+
+
+
+
+  
+<div class="palette-bg-white envelope envelope--style-white envelope--flush">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope-feature envelope-feature--text-left"><div class="envelope-feature__container"><div class="envelope-feature__photo"><span class="align-center media media--type-image media--view-mode-crop-square">
+  
+      
+            <span class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/square/public/2023-07/phys_home-hands-on.jpg?itok=xJqCrNow 1x" media="all and (min-width: 1200px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-07/phys_home-hands-on.jpg?itok=xJqCrNow 1x" media="all and (min-width: 960px) and (max-width: 1199px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-07/phys_home-hands-on.jpg?itok=xJqCrNow 1x" media="all and (min-width: 660px) and (max-width: 959px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/square/public/2023-07/phys_home-hands-on.jpg?itok=xJqCrNow 1x" media="all and (min-width: 320px) and (max-width: 659px)" type="image/jpeg" width="600" height="600">
+              <source srcset="/sites/default/files/styles/thumbnail/public/2023-07/phys_home-hands-on.jpg?itok=ADLJa-69 1x" type="image/jpeg" width="100" height="78">
+                  <img loading="eager" width="600" height="600" src="/sites/default/files/styles/square/public/2023-07/phys_home-hands-on.jpg?itok=xJqCrNow" alt="Teacher and students with telescope" typeof="foaf:Image">
+
+  </picture>
+
+</span>
+      
+  </span>
+</div><div class="envelope-feature__content"><div class="envelope-feature__content__title">Get Real-world Experience</div><div class="envelope-feature__content__body"><p>Physics students at all levels have the opportunity to design their own experiments and conduct authentic research. Explore the frontiers of modern physics using research-grade equipment in the Advanced Projects Lab, participate in outreach or student-driven research at <a href="https://pmo.uoregon.edu/">Pine Mountain Observatory</a> in central Oregon, or join one of our many research groups.</p><div class="grid grid--1col"><div class="grid__item"><p><a class="cta-button cta-button--submit" href="/physics/experiential-learning">Experiential Learning</a></p></div></div></div></div></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+        
+
+
+
+
+
+
+  
+<div class="palette-bg-white envelope envelope--style-white envelope--flush">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="grid grid--2col grid--flush"><div class="grid__item p4 palette-bg-uo-green"><div class="mb3" style="float:right;max-width:calc(680px - 2.4rem);"><h2>Scholarships and Funding</h2><p>Physics majors can apply for undergraduate scholarships through the College of Arts and Sciences and a variety of other sources. The Department of Physics provides funding for doctoral candidates through teaching and research assistantships.</p><p><a class="cta-button cta-button--standard mb2" href="/physics/undergraduate-programs/scholarships">Undergraduate Scholarships</a><br><a class="cta-button cta-button--standard" href="/physics/graduate-programs/funding">Graduate Funding</a></p></div></div><div class="grid__item p4 palette-bg-uo-legacy-green"><div class="mb3" style="max-width:calc(680px - 2.4rem);"><h2>Academic Support</h2><p>The Department of Physics offers extensive academic support services. Students can seek college and career assistance from advisors from Tykeson Hall or meet with our departmental advisors for help navigating their degree requirements and educational explorations. We also offer tutoring support through our drop-in help center.</p><p><a class="cta-button cta-button--standard mb2" href="/physics/undergraduate-programs/dept-advising">Undergraduate Advising</a><br><a class="cta-button cta-button--standard" href="/physics/graduate-programs/career">Support for Graduate Students</a></p></div></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+
+
+        
+
+
+
+
+  
+<div class="palette-bg-uo-yellow envelope envelope--style-yellow envelope--standard">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="grid grid--2col"><div class="grid__item"><p class="text-align-center"><a class="cta-button cta-button--standard" href="https://securelb.imodules.com/s/1540/foundation/2col.aspx?sid=1540&amp;gid=1&amp;pgid=408&amp;bledit=1&amp;dids=83 ">Give to the Department of Physics</a></p></div><div class="grid__item"><p class="text-align-center"><a class="cta-button cta-button--standard" href="https://cas.uoregon.edu/give-cas">Learn More About Giving to CAS</a></p></div></div></div>
+      </div>
+</div>
+              <div class="field__item">
+
+        
+
+
+
+
+
+
+  
+<div class="palette-bg-white envelope envelope--style-white envelope--standard">
+            <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h2>Department of Physics News and Events</h2><div class="grid grid--strict grid--3col view view-cas-news-feeds view-id-cas_news_feeds view-display-id-block_3 js-view-dom-id-ce0f3fb907575bbb5e0d8be93ce5496b9aeabd99270427b73a686f06c8c6361a">
+  
+    
+      
+      <div class="view-content">
+          <div class="card grid__item views-row"><div class="views-field views-field-nothing"><span class="field-content"><div class="card">
+<div class="card__photo__wrapper">
+<div class="card__photo">
+<a href="https://news.uoregon.edu/particle-or-wave-getting-heart-quantum-mechanics">  <img loading="lazy" src="/sites/default/files/styles/landscape_medium/public/2025-04/cas-news-physics-2025.png?itok=vpIPKu0r" width="450" height="253" alt="an illustration of a molecule" typeof="Image" class="image-style-landscape-medium" />
+
+
+</a> 
+</div>
+</div>
+
+<div class="card__title__wrapper">
+<div class="card__title"><a href="https://news.uoregon.edu/particle-or-wave-getting-heart-quantum-mechanics">Particle or wave? Getting to the heart of quantum mechanics</a></div>
+</div>
+
+<div class="card__subhead__wrapper">
+<div class="card__subhead"><time datetime="2025-04-14T13:21:35-07:00" class="datetime">April 14, 2025</time>
+</div>
+</div>
+
+<div class="card__teaser__wrapper">
+<div class="card__teaser">PHYSICS - In this video, UO physicist Graham Kribs walks viewers through the double-slit experiment and gives us a peek into the world of quantum mechanics, as well as one of the seminal experiments that helped open the quantum age. </div>
+</div>
+</div>
+</span></div></div>
+    <div class="card grid__item views-row"><div class="views-field views-field-nothing"><span class="field-content"><div class="card">
+<div class="card__photo__wrapper">
+<div class="card__photo">
+<a href="https://news.uoregon.edu/bad-bacteria-can-trigger-gut-pain-new-research-shows-how">  <img loading="lazy" src="/sites/default/files/styles/landscape_medium/public/2025-01/cas-news-biology-2025.jpg?itok=PZLlQTqo" width="450" height="253" alt="two people in a lab setting, person on the left holding a cylinder as a person on the right looks at it" typeof="Image" class="image-style-landscape-medium" />
+
+
+</a> 
+</div>
+</div>
+
+<div class="card__title__wrapper">
+<div class="card__title"><a href="https://news.uoregon.edu/bad-bacteria-can-trigger-gut-pain-new-research-shows-how">Bad bacteria can trigger gut pain, new research shows how</a></div>
+</div>
+
+<div class="card__subhead__wrapper">
+<div class="card__subhead"><time datetime="2025-01-24T15:51:41-08:00" class="datetime">January 24, 2025</time>
+</div>
+</div>
+
+<div class="card__teaser__wrapper">
+<div class="card__teaser">BIOLOGY, PHYSICS - A new study published in the journal mBio shows how one kind of bacteria, Vibrio cholerae, triggers those painful contractions by activating the immune system. The research also finds a more general explanation for how the gut rids itself of unwanted intruders, which could also help scientists better understand chronic conditions like inflammatory bowel disease. The research was led by Julia Ngo, a now-graduated doctoral student in Karen Guillemin and Raghu Parthasarathy’s labs.</div>
+</div>
+</div>
+</span></div></div>
+    <div class="card grid__item views-row"><div class="views-field views-field-nothing"><span class="field-content"><div class="card">
+<div class="card__photo__wrapper">
+<div class="card__photo">
+<a href="https://research.uoregon.edu/news/uo-physicist-receives-nations-highest-honor-early-career-scientists">  <img loading="lazy" src="/sites/default/files/styles/landscape_medium/public/2025-01/cas-news-physics-ovpri-tien-tien-yu.jpg?h=91f60ab5&amp;itok=0nmIUAvq" width="450" height="253" alt="a landscape of the stars in outer space" typeof="Image" class="image-style-landscape-medium" />
+
+
+</a> 
+</div>
+</div>
+
+<div class="card__title__wrapper">
+<div class="card__title"><a href="https://research.uoregon.edu/news/uo-physicist-receives-nations-highest-honor-early-career-scientists">UO physicist receives nation’s highest honor for early-career scientists</a></div>
+</div>
+
+<div class="card__subhead__wrapper">
+<div class="card__subhead"><time datetime="2025-01-21T14:37:45-08:00" class="datetime">January 21, 2025</time>
+</div>
+</div>
+
+<div class="card__teaser__wrapper">
+<div class="card__teaser">PHYSICS - Professor Tien-Tien Yu is one of nearly 400 scientists and engineers awarded the Presidential Early Career Award for Scientists and Engineers (PECASE), the highest honor bestowed by the US government on outstanding scientists and engineers early in their careers.
+</div>
+</div>
+</div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+<p class="text-align-right"><a href="/physics/contact-us/news">All news</a> »</p><hr><p class="text-align-right">&nbsp;</p>
+
+
+
+
+<div class="uo__calender-wrapper " tabindex="0" data-expiration="1745142060">
+    
+
+
+
+
+
+<div class="uo__calender-slider-wrapper 0">
+  <div class="event-widget">
+
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/department-of-history-coffee-hour-6420" class="event-link">Department of History Coffee Hour</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/49157769298301/huge/47f8f3859174de87ebfd9e6ac07b466d9530c3e7.jpg);" alt="Event: Department of History Coffee Hour" title="Event: Department of History Coffee Hour"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">22</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">Department of History Coffee Hour</span>
+            <span class="event-detail-info">Apr 22</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">McKenzie Hall</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/public-screening-and-director-talk-samurai-in-the-oregon-sky" class="event-link">Public Screening and Director Talk: "Samurai in the Oregon Sky"</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/48934874399349/huge/81ebff1e2d50225112b01eb526226ffe4dbab5fb.jpg);" alt="Event: Public Screening and Director Talk: &quot;Samurai in the Oregon Sky&quot;" title="Event: Public Screening and Director Talk: &quot;Samurai in the Oregon Sky&quot;"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">22</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">Public Screening and Director Talk: "Samurai in the Oregon Sky"</span>
+            <span class="event-detail-info">Apr 22</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">McKenzie Hall</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/health-grad-career-expo-2025" class="event-link">Health Grad &amp; Career Expo 2025</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/47483373112038/huge/131c3c6b6870e441e53d446ffb30ed82273f4b84.jpg);" alt="Event: Health Grad &amp; Career Expo 2025" title="Event: Health Grad &amp; Career Expo 2025"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">23</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">Health Grad &amp; Career Expo 2025</span>
+            <span class="event-detail-info">Apr 23</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">Erb Memorial Union (EMU)</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/the-aesthetics-of-interculturality-in-contemporary-german-and-african-literature" class="event-link">The Aesthetics of Interculturality in Contemporary German and African Literature</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/49339271136083/huge/bdc998c1505ae3f3648a98a7a8f231895dbd8b2a.jpg);" alt="Event: The Aesthetics of Interculturality in Contemporary German and African Literature" title="Event: The Aesthetics of Interculturality in Contemporary German and African Literature"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">23</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">The Aesthetics of Interculturality in Contemporary German and African Literature</span>
+            <span class="event-detail-info">Apr 23</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">Knight Library</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/dept-of-history-presents-trumps-first-100-days-now-and-then" class="event-link">Dept. of History Presents: “Trump’s First 100 Days:  Now and Then” </a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/49355758016072/huge/ad733743ab00adc9411a9228d65a94057f546086.jpg);" alt="Event: Dept. of History Presents: “Trump’s First 100 Days:  Now and Then” " title="Event: Dept. of History Presents: “Trump’s First 100 Days:  Now and Then” "></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">23</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">Dept. of History Presents: “Trump’s First 100 Days:  Now and Then” </span>
+            <span class="event-detail-info">Apr 23</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">McKenzie Hall</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/symposium-the-limits-and-possibilities-of-cross-border-latinidades-indigeneities" class="event-link">Symposium: The Limits and Possibilities of Cross-border Latinidades &amp; Indigeneities</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/49295876079588/huge/914e5f49cd2000a1f8f5eab9d869c10e3513b953.jpg);" alt="Event: Symposium: The Limits and Possibilities of Cross-border Latinidades &amp; Indigeneities" title="Event: Symposium: The Limits and Possibilities of Cross-border Latinidades &amp; Indigeneities"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">24</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">Symposium: The Limits and Possibilities of Cross-border Latinidades &amp; Indigeneities</span>
+            <span class="event-detail-info">Apr 24</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">Jordan Schnitzer Museum of Art (JSMA)</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/china-town-hall-uo-the-first-100-days-president-trumps-china-policy" class="event-link">China Town Hall (UO): The First 100 Days - President Trump's China Policy</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/49340617571803/huge/a512c5aa478bdeb6232df5ceb19b380716adc523.jpg);" alt="Event: China Town Hall (UO): The First 100 Days - President Trump's China Policy" title="Event: China Town Hall (UO): The First 100 Days - President Trump's China Policy"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">24</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">China Town Hall (UO): The First 100 Days - President Trump's China Policy</span>
+            <span class="event-detail-info">Apr 24</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">McKenzie Hall</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/bob_bussel_labor_history_lecture" class="event-link">Bob Bussel Labor History Lecture—Essential Workers: Public Employment and the Dignity of Labor</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/45439092268898/huge/86092177c46d59d458652ffaf692c88d4f856453.jpg);" alt="Event: Bob Bussel Labor History Lecture—Essential Workers: Public Employment and the Dignity of Labor" title="Event: Bob Bussel Labor History Lecture—Essential Workers: Public Employment and the Dignity of Labor"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">24</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">Bob Bussel Labor History Lecture—Essential Workers: Public Employment and the Dignity of Labor</span>
+            <span class="event-detail-info">Apr 24</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">William W. Knight Law Center</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/take_back_the_night_8477" class="event-link">Take Back The Night</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/49156037358078/huge/823046642344008c3f57ccc8fe9fca71d7c21733.jpg);" alt="Event: Take Back The Night" title="Event: Take Back The Night"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">24</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">Take Back The Night</span>
+            <span class="event-detail-info">Apr 24</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">Erb Memorial Union (EMU)</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+            <div class="event-slide">
+      <div class="slide-content">
+        <a href="https://calendar.uoregon.edu/event/cinema-studies-presents-screening-of-didi-and-qa-with-director-sean-wang" class="event-link">Cinema Studies Presents: Screening of DÌDI (弟弟) and Q&amp;A with Director Sean Wang</a>
+                <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/49111495756217/huge/828bb2720958c8355f50e40119527104ba2619e0.jpg);" alt="Event: Cinema Studies Presents: Screening of DÌDI (弟弟) and Q&amp;A with Director Sean Wang" title="Event: Cinema Studies Presents: Screening of DÌDI (弟弟) and Q&amp;A with Director Sean Wang"></div>
+        
+        <div class="event-info">
+          <div class="event-date">
+            <span class="event-month title">Apr</span><span class="event-day title">24</span>
+          </div>
+          <div class="event-details">
+            <span class="event-title title">Cinema Studies Presents: Screening of DÌDI (弟弟) and Q&amp;A with Director Sean Wang</span>
+            <span class="event-detail-info">Apr 24</span>
+            <span class="event-detail-info"></span>
+            <span class="event-detail-info">Lawrence Hall</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+</div>
+
+  </div>
+<p class="text-align-right"><a href="/physics/experiential-learning/events">All events</a> »</p></div>
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+
+  </div>
+
+      </div>
+      
+          </div>
+
+  </main>
+
+  
+</div>
+  </div>
+
+    
+<footer>
+      <div class="site-footer">
+      <div class="site-footer__container" style="max-width: px;">
+        <div class="site-footer__custom-content">
+          <h3>College of Arts and Sciences</h3><p>The College of Arts and Sciences is the “heart and soul” of the University of Oregon because we are home to the core academic programs that support the entire university.</p><div class="grid grid--2col"><div class="grid__item pb0"><div class="resource-listing__item"><a href="https://cas.uoregon.edu/admissions">Admissions</a></div><div class="resource-listing__item"><a href="https://cas.uoregon.edu/academics">Academics</a></div><div class="resource-listing__item"><a href="https://cas.uoregon.edu/research">Research</a></div><div class="resource-listing__item"><a href="https://cas.uoregon.edu/experiential-learning">Experiential Learning</a></div><div class="resource-listing__item"><a href="https://cas.uoregon.edu/advising">Advising</a></div></div><div class="grid__item"><div class="resource-listing__item"><a href="https://cas.uoregon.edu/scholarships">Scholarships</a></div><div class="resource-listing__item"><a href="https://cas.uoregon.edu/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></div><div class="resource-listing__item"><a href="https://cas.uoregon.edu/directory">Directory</a></div><div class="resource-listing__item"><a href="https://cas.uoregon.edu/about">About</a></div></div></div><p>Join our community of generous and loyal supporters by making a gift to one of the areas below, or choose from our full list of <a href="https://giving.uoregon.edu/s/1540/17/interior.aspx?sid=1540&amp;gid=2&amp;pgid=2308">department and program funds</a>&nbsp;to support your favorite.</p><div class="grid grid--3col"><div class="grid__item"><p class="text-align-center"><a href="https://securelb.imodules.com/s/1540/foundation/index.aspx?sid=1540&amp;gid=1&amp;pgid=408&amp;bledit=1&amp;dids=14" class="cta-button cta-button--submit">CAS Dean's Excellence Fund</a></p></div><div class="grid__item"><p class="text-align-center"><a href="https://securelb.imodules.com/s/1540/foundation/index.aspx?sid=1540&amp;gid=1&amp;pgid=408&amp;bledit=1&amp;dids=185" class="cta-button cta-button--submit">CAS Scholarship Fund</a></p></div><div class="grid__item"><p class="text-align-center"><a href="https://securelb.imodules.com/s/1540/foundation/index.aspx?sid=1540&amp;gid=1&amp;pgid=408&amp;bledit=1&amp;dids=1446" class="cta-button cta-button--submit">CAS Graduate Support Fund</a></p></div></div>
+        </div>
+        <div class="site-footer__contact-info-container">
+          <div class="site-footer__contact-info">
+
+            <div itemscope="" itemtype="http://schema.org/Organization">
+                            <span itemprop="name"><strong>College of Arts and Sciences Dean&#039;s Office</strong></span><br>
+                <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+    <div itemprop="streetAddress">1030 East 13th Ave</div>    <span itemprop="addressLocality">Eugene</span>,     <span itemprop="addressRegion">OR </span>    <span itemprop="postalCode">97403-1245</span>              <div itemprop="location" itemscope="" itemtype="http://schema.org/location">
+        <a href="https://map.uoregon.edu/?z=18&buildingid=103&pc=green&title=Tykeson Hall" title="View location on UO Maps">
+        Office: Tykeson Hall , Fourth Floor        </a>
+      </div>
+              <p>
+      <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-3902</span></div>                  </p>
+      </div>
+
+                <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                              </div>
+
+
+                            
+              <p>
+                <ul class="site-footer__social-links">
+                                                                        <li itemprop="sameAs">
+                      <a href="https://www.facebook.com/UOCAS" aria-label="Visit us on Facebook">
+                        <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                                              </a>
+                    </li>
+                                                                                          <li itemprop="sameAs">
+                      <a href="https://twitter.com/uocas" aria-label="Visit us on Twitter">
+                        <i class="fab fa-x-twitter" aria-hidden="true"></i>
+                                              </a>
+                    </li>
+                                                                                          <li itemprop="sameAs">
+                      <a href="https://www.youtube.com/@uocollegeofartsandsciences8745" aria-label="Visit us on Youtube">
+                        <i class="fab fa-youtube" aria-hidden="true"></i>                      </a>
+                    </li>
+                                                                                                                                              <li itemprop="sameAs">
+                      <a href="https://www.instagram.com/uocas/" aria-label="Visit us on Instagram">
+                        <i class="fab fa-instagram" aria-hidden="true"></i>                      </a>
+                    </li>
+                                                                                          <li itemprop="sameAs">
+                      <a href="https://www.linkedin.com/company/uo-cas" aria-label="Visit us on LinkedIn">
+                        <i class="fab fa-linkedin" aria-hidden="true"></i>                      </a>
+                    </li>
+                                                                                                                                                                                                              </ul>
+
+                <link itemprop="url" style="visibility:hidden;" itemscope="//naturalsciences.uoregon.edu">
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <div class="uofooter">
+    <div class="uofooter__container" style="max-width: px;">
+      <div class="uofooter__links-and-logo-container">
+
+        <ul class="uofooter__links-container">
+          <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+          <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+          <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+          <li class="uofooter__link"><a href="https://registrar.uoregon.edu/privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+          <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+          <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+          <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+        </ul>
+
+        <div class="uofooter__copyright-container">
+          <span class="copyright">
+            <span class="copyright-symbol">©</span> 
+            <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+          </span>
+          <span class="all-rights-reserved">All Rights Reserved.</span>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</footer>
+    <script src="/sites/default/files/js/js_Rnn8B-meYI0MBPVnWM36rn9i7XmjlzUxSz5MIy9dNFk.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFj1kOwyAMRC8UhyNFDhjk1uDIgJLcvmnVXar6M3qz_IxXUZt1c_4OwwNc0Lx047i_Ii7chqSahKaGyaVDvv2IJ9w-wzx0nTwKlYDm3ngMFLFL-9lX4UB2q9XIVW8qAo0zCReCRWWPLPIcdIWVZghUORWIhplWtTP444tQo7_D68MLKyZrCQ"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+<script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/25.04/v1/js/uowdf-jscore-d8.min.js"></script>
+
+  </body>
+</html>
